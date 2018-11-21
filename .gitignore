@@ -1,0 +1,6 @@
+/bin
+/**/*.pb.go
+.vscode
+vendor/*/
+.DS_Store
+
